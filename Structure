@@ -1,0 +1,23 @@
+AI-Threat-Intelligence-System/
+
+│
+├── data/
+│   └── sample_data.csv
+│
+├── notebooks/
+│   └── development_notebook.ipynb
+│
+├── app/
+│   └── app.py
+│
+├── screenshots/
+│   ├── dashboard1.png
+│   ├── dashboard2.png
+│
+├── models/
+│
+├── requirements.txt
+│
+├── README.md
+│
+└── LICENSE
